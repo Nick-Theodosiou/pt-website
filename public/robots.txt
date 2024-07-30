@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://gpapanikolifts.com
+
+# Sitemaps
+Sitemap: https://gpapanikolifts.com/sitemap.xml
